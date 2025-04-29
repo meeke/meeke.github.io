@@ -60,3 +60,4 @@
 - **客服服务**：如遇问题，可随时联系Wildcard客服获取帮助。
 
 通过以上步骤，你可以在大约10分钟内完成Windsurf Pro的订阅。此方法也适用于订阅其他服务，如Cursor Pro或Github Copilot。
+![微信图片](/images/wechat.jpg)
