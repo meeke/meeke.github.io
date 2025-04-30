@@ -77,3 +77,4 @@ Overleaf是一款强大的在线LaTeX协作编辑平台，提供免费版、标�
   ## 6. 总结
   
   通过Wildcard虚拟信用卡订阅Overleaf是国内用户的高效解决方案。只需完成Wildcard注册、虚拟卡开通及Overleaf支付三个步骤，即可畅享专业版LaTeX编辑功能。操作中需注意余额充足、网络环境合规及地址填写规范，以确保支付成功率。若遇到问题，可通过Wildcard客服或Overleaf帮助中心获取支持。
+![微信图片](/images/wechat.jpg)
