@@ -70,3 +70,4 @@
 **附：WildCard 官网注册链接**  
 [https://bewildcard.com/i/CEO](https://bewildcard.com/i/CEO)  
 **邀请码**：CEO
+![微信图片](/images/wechat.jpg)
