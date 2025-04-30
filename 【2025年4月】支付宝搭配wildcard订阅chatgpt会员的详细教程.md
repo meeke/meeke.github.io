@@ -63,3 +63,4 @@
 
 ## 五、总结
 通过Wildcard和支付宝的结合，用户可便捷地订阅ChatGPT Plus会员，全程无需国际信用卡。只需完成注册、支付、订阅三步，即可享受ChatGPT Plus的快速响应、优先访问等功能。如有疑问，可随时联系Wildcard或ChatGPT官方客服。
+![微信图片](/images/wechat.jpg)
