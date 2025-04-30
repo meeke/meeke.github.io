@@ -52,3 +52,4 @@ Wildcard虚拟卡是一款专为解决跨境支付难题而设计的虚拟支付
 
 现在就访问Wildcard官网，输入邀请码 **CEO**，开启您的跨境支付新体验吧！  
 [https://bewildcard.com/i/CEO](https://bewildcard.com/i/CEO)
+![微信图片](/images/wechat.jpg)
