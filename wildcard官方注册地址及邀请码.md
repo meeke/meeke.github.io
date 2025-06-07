@@ -1,4 +1,4 @@
-# wildcard官方注册地址及邀请码CEO
+# wildcard官方注册地址及邀请码
 
 WildCard 是一款专注于提供虚拟信用卡服务的平台，帮助用户轻松订阅海外线上服务，如 ChatGPT、Claude Pro、Midjourney 等。
 
