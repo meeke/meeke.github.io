@@ -5,16 +5,16 @@
 ## 一、准备工作
 
 1. **支付宝账号**：确保你有一个支付宝账号，并且已经完成实名认证。
-2. **WildCard 官网**：访问 [WildCard 官网](https://bewildcard.com/i/CEO) 并准备好邀请码 **CEO**。
+2. **WildCard 官网**：访问 [WildCard 官网](https://bewildcard.com/i/DFG) 并准备好邀请码 **DFG**。
 3. **Midjourney 官网**：准备好 Midjourney 的官网地址 [https://www.midjourney.com](https://www.midjourney.com)。
 
 ## 二、注册 WildCard 账号
 
 ### 1. 访问官网
-打开浏览器，访问 [WildCard 官网](https://bewildcard.com/i/CEO)。
+打开浏览器，访问 [WildCard 官网](https://bewildcard.com/i/DFG)。
 
 ### 2. 输入邀请码
-在注册页面输入邀请码 **CEO**，（开卡可获1美元得优惠），然后点击“注册”按钮。
+在注册页面输入邀请码 **DFG**，（开卡可获1美元得优惠），然后点击“注册”按钮。
 
 ### 3. 填写注册信息
 - **邮箱地址**：输入一个有效的邮箱地址，用于接收激活链接和后续通知。
