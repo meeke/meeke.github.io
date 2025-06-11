@@ -8,8 +8,8 @@
 
 1. **注册 WildCard 账户**
   
-  - 访问 WildCard 官网：[https://bewildcard.com/i/CEO](https://bewildcard.com/i/CEO)
-  - 使用邀请码 **CEO** 完成注册（可获得1-2美元奖励）。
+  - 访问 WildCard 官网：[https://bewildcard.com/i/DFG](https://bewildcard.com/i/DFG)
+  - 使用邀请码 **DFG** 完成注册（可获得1-2美元奖励）。
   - 登录后完成支付宝实名认证（无需上传身份证）。
 2. **充值 WildCard 账户**
   
@@ -68,6 +68,6 @@
 通过 WildCard 平台，结合支付宝，订阅 Cursor Pro 的过程变得简单高效。无论是初次尝试还是长期使用，WildCard 都是目前国内用户订阅海外服务的最佳选择之一。建议保存本文中的关键步骤截图，以便随时参考。
 
 **附：WildCard 官网注册链接**  
-[https://bewildcard.com/i/CEO](https://bewildcard.com/i/CEO)  
-**邀请码**：CEO
+[https://bewildcard.com/i/DFG](https://bewildcard.com/i/DFG)  
+**邀请码**：DFG
 ![微信图片](/images/wechat.jpg)
