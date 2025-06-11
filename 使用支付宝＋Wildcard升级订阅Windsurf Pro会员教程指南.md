@@ -6,8 +6,8 @@
 
 1. **注册Wildcard账户**
   
-  - 访问Wildcard官网：[https://bewildcard.com/i/CEO]()
-  - 使用邀请码 **CEO** 完成注册（可获得1-2美元奖励）。
+  - 访问Wildcard官网：[https://yeka.ai/i/DFG](https://yeka.ai/i/DFG)
+  - 使用邀请码 **DFG** 完成注册（可获得1-2美元奖励）。
   - 登录后完成支付宝实名认证（无需上传身份证）。
 2. **充值Wildcard账户**
   
