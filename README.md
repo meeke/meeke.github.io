@@ -35,10 +35,7 @@ WildCard 虚拟信用卡是一款专为解决跨境支付痛点而生的便捷�
 - **广泛适配** ：一卡适配多个海外平台账户，无论是热门的 AI 服务还是其他海外应用，一个 WildCard 虚拟信用卡就能满足你的支付需求。
 
 ## 如何开始使用？
-
-1. **访问官网** ：前往 [WildCard 官方网站](https://bewildcard.com/i/CEO)，点击 “注册” 按钮。
-2. **完成注册** ：输入手机号码，获取并填写验证码，按提示完成注册流程。
-3. **充值激活** ：通过支付宝扫码充值，激活你的 WildCard 虚拟信用卡，即可开始使用。
+【重要提示】：由于wildcard已经关闭，推荐使用pokepay平台的VISA卡，虚拟卡5U，实体卡88U，pokepay官网：<https://app.pokepay.cc/pages/invitation/regist?r=155328>
 
 ## 常见问题解答
 
