@@ -16,11 +16,11 @@ Poe 是由 Quora 开发的一款 AI 聊天工具集成平台，它将不同类�
 
 1. **注册并登录 Wildcard**
   
-  - 打开 Wildcard 官方网站<https://yeka.ai/i/MASK> ，点击注册按钮，按照页面提示填写相关信息完成注册。
-  - 注册成功后，使用注册时的邮箱和密码登录 Wildcard 账号。
+【重要提示】：由于wildcard已经关闭，推荐使用pokepay平台的VISA卡，虚拟卡5U，实体卡88U，pokepay官网：<https://app.pokepay.cc/pages/invitation/regist?r=155328>
+
 2. **开通 Wildcard 会员并绑定支付宝**
   
-  - 登录后，进入 “我的卡片” 页面，选择适合自己的会员套餐。邀请码填**MASK**可以填写以获得 1 美元的优惠。
+  - 登录后，进入 “我的卡片” 页面，选择适合自己的会员套餐。邀请码填**155328**
   - 开通会员后，在 “支付方式” 中选择添加支付宝，将支付宝与 Wildcard 账号绑定。
 3. **使用 Wildcard 虚拟信用卡订阅 Poe**
   
