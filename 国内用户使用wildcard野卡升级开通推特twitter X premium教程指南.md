@@ -1,7 +1,18 @@
 # PokePay平台介绍及VISA/万事达卡申请步骤
 
-**写在前面**：由于wildcard已经关闭，推荐使用pokepay平台的VISA卡，虚拟卡5U，实体卡88U，pokepay官网及注册入口：<https://app.pokepay.cc/pages/invitation/regist?r=155328>
+## pokepay平台VISA卡介绍：
 
+**虚拟卡**：开卡费5U，支持绑定支付宝消费，目前此卡订阅GPT等海外服务有难度。
+
+**实体卡**：开卡费88U，大陆地区顺丰包邮到家，支持ATM取现、P0S机刷卡。
+
+**pokepay注册地址**：<https://app.pokepay.cc/pages/invitation/regist?r=155328>
+
+**注意**：注册或者开卡前先加威信：tcbdm001
+
+**AI订阅**：chatgpt、midjourney等AI软件合租、会员代充请访问此平台：<https://nf.video/Y7SG6>
+
+## 下面内容仅供参考
 在全球化浪潮下，跨境支付、多场景消费的需求日益增长，PokePay作为一款全球多币种支付平台，正以其全面的服务和突出的优势，为用户在科技、金融、生活、贸易、消费等多个领域提供资产保障与便捷支付解决方案。
 
 ## 丰富的产品服务体系
