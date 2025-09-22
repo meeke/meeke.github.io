@@ -6,7 +6,7 @@
 
 **pokepay注册地址**：<https://app.pokepay.cc/pages/invitation/regist?r=155328>
 
-**注意**：注册或者开卡前先加威信：tcbdm001
+**注意**：注册或者开卡前先加qq：3930323142
 
 **AI订阅**：chatgpt、midjourney等AI软件合租、会员代充请访问此平台：<https://nf.video/Y7SG6>
 
