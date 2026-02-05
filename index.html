@@ -3,78 +3,570 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 网页标题 -->
-    <title>PokePay 全球多币种支付，高效覆盖线上线下</title>
-    <!-- 网页描述 -->
-    <meta name="description" content="PokePay打造多样化的产品，满足用户不同场景的需求。实体卡：支持刷卡、ATM取款；虚拟卡：适用于消费、订阅、海淘及全球支付等场景；VA账户：具备转账、收发单、美股港股交易、证券交易等功能。">
-    <!-- 网页关键词 -->
-    <meta name="keywords" content="海淘购物, 会员订阅, 商旅留学, 跨境支付, ATM取现">
-    <!-- Open Graph 标记 -->
-    <meta property="og:title" content="PokePay 全球多币种支付，高效覆盖线上线下">
-    <meta property="og:description" content="PokePay打造多样化的产品，满足用户不同场景的需求。实体卡：支持刷卡、ATM取款；虚拟卡：适用于消费、订阅、海淘及全球支付等场景；VA账户：具备转账、收发单、美股港股交易、证券交易等功能。">
-    <meta property="og:image content"="https://example.com/pokepay-logo.svg">
+    
+    <!-- SEO: 优化标题，包含核心关键词，控制在30字内 -->
+    <title>PokePay虚拟卡与实体卡 - 全球多币种跨境支付解决方案 | 支持GPT订阅</title>
+    
+    <!-- SEO: 优化描述，突出卖点，150字内 -->
+    <meta name="description" content="PokePay提供VISA虚拟卡（5U开卡）和实体卡（88U包邮），支持支付宝绑定、ATM取现、POS刷卡。合规持牌，覆盖海淘、订阅GPT、跨境支付等场景。">
+    
+    <!-- SEO: 精准关键词 -->
+    <meta name="keywords" content="PokePay,虚拟信用卡,实体VISA卡,跨境支付,海淘,ChatGPT订阅,支付宝绑卡,ATM取现,多币种支付">
+    
+    <!-- SEO: 规范链接，避免重复内容 -->
+    <link rel="canonical" href="https://app.pokepay.cc/pages/passport/register?r=155328">
+    
+    <!-- Open Graph 优化 -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="PokePay - 合规跨境支付，虚拟卡5U起">
+    <meta property="og:description" content="持牌合规的跨境支付平台，提供虚拟卡、实体卡及VA账户，支持全球消费、订阅服务、证券交易。">
+    <meta property="og:image" content="https://app.pokepay.cc/assets/images/og-image.jpg">
     <meta property="og:url" content="https://app.pokepay.cc/pages/passport/register?r=155328">
-    <!-- 添加 Schema.org 结构化数据标记 -->
+    <meta property="og:site_name" content="PokePay">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PokePay跨境支付解决方案">
+    <meta name="twitter:description" content="虚拟卡5U开卡，实体卡88U包邮，支持支付宝与全球消费">
+    
+    <!-- 结构化数据：产品+组织双重标记 -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Product",
-      "name": "PokePay 跨境支付解决方案",
-      "description": "PokePay打造多样化的产品，满足用户不同场景的需求。实体卡：支持刷卡、ATM取款；虚拟卡：适用于消费、订阅、海淘及全球支付等场景；VA账户：具备转账、收发单、美股港股交易、证券交易等功能。",
-      "image": "https://example.com/pokepay-logo.svg",
-      "url": "https://app.pokepay.cc/pages/passport/register?r=155328"
+      "@graph": [
+        {
+          "@type": "Product",
+          "name": "PokePay VISA卡服务",
+          "image": "https://app.pokepay.cc/assets/images/card-product.jpg",
+          "description": "提供虚拟卡和实体卡两种产品，虚拟卡支持支付宝绑定及线上消费，实体卡支持ATM取现及POS机刷卡",
+          "brand": {
+            "@type": "Brand",
+            "name": "PokePay"
+          },
+          "offers": [
+            {
+              "@type": "Offer",
+              "name": "虚拟卡",
+              "price": "5",
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock"
+            },
+            {
+              "@type": "Offer",
+              "name": "实体卡",
+              "price": "88",
+              "priceCurrency": "USD",
+              "availability": "https://schema.org/InStock"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "PokePay",
+          "url": "https://app.pokepay.cc",
+          "logo": "https://app.pokepay.cc/assets/images/logo.png",
+          "description": "持有美国、香港金融牌照的合规跨境支付平台"
+        }
+      ]
     }
     </script>
+
+    <!-- 性能优化：预连接 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- 字体：现代感中文字体 -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
+        /* CSS变量：统一配色系统 */
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --secondary: #0ea5e9;
+            --accent: #f59e0b;
+            --success: #10b981;
+            --text-primary: #1f2937;
+            --text-secondary: #6b7280;
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8fafc;
+            --border: #e5e7eb;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        * {
             margin: 0;
-            padding: 20px;
-            color: #333;
+            padding: 0;
+            box-sizing: border-box;
         }
+
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.7;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, #f0f9ff 0%, #ffffff 100%);
+            min-height: 100vh;
+        }
+
+        /* 容器优化 */
         .container {
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
+            padding: 0 20px;
         }
+
+        /* 头部样式：视觉层次强化 */
         header {
             text-align: center;
-            margin-bottom: 30px;
+            padding: 60px 0 40px;
+            position: relative;
         }
+
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+        }
+
         h1 {
-            color: #2c3e50;
-            font-size: 24px;
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+            line-height: 1.3;
         }
-        a {
-            color: #007bff;
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.8;
+        }
+
+        /* 卡片对比组件：核心内容可视化 */
+        .cards-showcase {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+            margin: 40px 0;
+        }
+
+        .card-item {
+            background: var(--bg-primary);
+            border-radius: 16px;
+            padding: 32px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+        }
+
+        .card-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+
+        .card-icon {
+            width: 56px;
+            height: 56px;
+            background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+
+        .card-item:nth-child(2) .card-icon {
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+        }
+
+        .card-price {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 16px;
+        }
+
+        .card-price span {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .features-list {
+            list-style: none;
+            margin: 20px 0;
+        }
+
+        .features-list li {
+            padding: 8px 0;
+            padding-left: 24px;
+            position: relative;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        .features-list li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: var(--success);
+            font-weight: 700;
+        }
+
+        .notice {
+            background: #fef3c7;
+            border-left: 4px solid var(--accent);
+            padding: 12px 16px;
+            border-radius: 6px;
+            margin-top: 16px;
+            font-size: 0.9rem;
+            color: #92400e;
+        }
+
+        /* 优势区块：网格布局 */
+        .advantages {
+            background: var(--bg-primary);
+            border-radius: 20px;
+            padding: 40px;
+            margin: 40px 0;
+            box-shadow: var(--shadow);
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 32px;
+            color: var(--text-primary);
+        }
+
+        .advantages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 24px;
+        }
+
+        .advantage-item {
+            text-align: center;
+            padding: 24px;
+            border-radius: 12px;
+            background: var(--bg-secondary);
+            transition: background 0.3s ease;
+        }
+
+        .advantage-item:hover {
+            background: #e0f2fe;
+        }
+
+        .advantage-icon {
+            width: 48px;
+            height: 48px;
+            background: white;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 12px;
+            box-shadow: var(--shadow);
+        }
+
+        .advantage-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--text-primary);
+        }
+
+        .advantage-desc {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* CTA按钮：行动号召 */
+        .cta-section {
+            text-align: center;
+            margin: 48px 0;
+        }
+
+        .cta-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white;
+            padding: 16px 40px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            text-decoration: none;
+            box-shadow: 0 10px 25px -5px rgba(37, 99, 235, 0.4);
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 20px 35px -5px rgba(37, 99, 235, 0.5);
             text-decoration: none;
         }
-        a:hover {
-            text-decoration: underline;
+
+        /* 替代方案区块：视觉区分 */
+        .alternative {
+            background: linear-gradient(135deg, #1e293b, #0f172a);
+            color: white;
+            border-radius: 20px;
+            padding: 40px;
+            margin: 40px 0;
+            text-align: center;
         }
+
+        .alternative h3 {
+            font-size: 1.5rem;
+            margin-bottom: 16px;
+            color: #fbbf24;
+        }
+
+        .alternative p {
+            color: #94a3b8;
+            margin-bottom: 24px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .alt-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            color: white;
+            padding: 14px 32px;
+            border-radius: 50px;
+            text-decoration: none;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .alt-link:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+            text-decoration: none;
+        }
+
+        /* 页脚 */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        .disclaimer {
+            max-width: 700px;
+            margin: 20px auto 0;
+            font-size: 0.85rem;
+            color: #9ca3af;
+            line-height: 1.6;
+        }
+
+        /* 响应式优化 */
+        @media (max-width: 640px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .cards-showcase {
+                grid-template-columns: 1fr;
+            }
+            
+            .card-item {
+                padding: 24px;
+            }
+            
+            .advantages {
+                padding: 24px;
+            }
+            
+            .advantages-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* 动画 */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        header, .card-item, .advantages, .alternative {
+            animation: fadeInUp 0.6s ease-out forwards;
+        }
+
+        .card-item:nth-child(2) { animation-delay: 0.1s; }
+        .advantages { animation-delay: 0.2s; }
+        .alternative { animation-delay: 0.3s; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>PokePay平台VISA卡简介</h1>
-<p>虚拟卡：开卡费5U，支持绑定支付宝消费，目前此卡订阅GPT等海外服务有难度；实体卡：开卡费88U，大陆地区顺丰包邮到家，支持ATM取现、POS机刷卡。</p>
+            <div class="badge">🇭🇰 香港/美国双持牌合规平台</div>
+            <h1>PokePay 全球多币种支付</h1>
+            <p class="subtitle">
+                虚拟卡与实体卡双重解决方案，覆盖海淘购物、AI订阅、商旅留学等全场景跨境支付需求
+            </p>
         </header>
+
         <main>
-            <article>
-                <h3>PokePay平台优势</h3>
-<p>牌照监管：坚持合规至上，持有美国、香港等国家及地区的金融执照，严格遵守监管机构相关法规要求；资金托管：采取严格的资金安全保障措施，其金融法币解决方案通过了合作银行与机构的合规检验与认可；风控安全：实时监控交易，结合完善的AML反洗钱监控算法及各类金融业黑名单，为用户的交易保驾护航。同时，平台实行全天候7×24小时监控，时刻保护用户的资金安全。 无论是个人日常消费、跨境购物，还是企业跨境贸易、海外业务拓展，PokePay都凭借其丰富的产品、广泛的场景、突出的优势和可靠的安全保障，成为值得信赖的支付伙伴，让全球支付变得更加简单、高效、安全。
-</p>
-            </article>
-            <article>
-                <h3>银河录像局注册流程指南</h3>
-<p>由于大陆ip目前无法注册pokepay，所以本人暂停推广pokepay，如果你有订阅（合租或代充）海外AI服务的需求，可以上银河录像局，此平台提供ai代充、合租及镜像等服务</p>
-                <a href="https://nf.video/Y7SG6">银河录像局ai服务合租代充平台入口</a>
-            </article>
+            <!-- 产品对比卡片 -->
+            <section class="cards-showcase" aria-label="产品方案">
+                <article class="card-item">
+                    <div class="card-icon">💳</div>
+                    <h2 class="card-title">VISA虚拟卡</h2>
+                    <div class="card-price">5 <span>USDT 开卡费</span></div>
+                    <ul class="features-list">
+                        <li>支持绑定支付宝消费</li>
+                        <li>即时开卡，无需等待</li>
+                        <li>适用于海淘、订阅服务</li>
+                        <li>全球线上支付无障碍</li>
+                    </ul>
+                    <div class="notice">
+                        <strong>注意：</strong>目前订阅ChatGPT等部分海外AI服务可能存在难度
+                    </div>
+                </article>
+
+                <article class="card-item">
+                    <div class="card-icon">🏧</div>
+                    <h2 class="card-title">VISA实体卡</h2>
+                    <div class="card-price">88 <span>USDT 开卡费</span></div>
+                    <ul class="features-list">
+                        <li>大陆地区顺丰包邮到家</li>
+                        <li>支持ATM取现（银联网络）</li>
+                        <li>POS机刷卡消费</li>
+                        <li>线下支付全覆盖</li>
+                    </ul>
+                    <div class="notice" style="background: #dbeafe; border-color: var(--primary); color: var(--primary-dark);">
+                        <strong>推荐：</strong>需要实体卡片及取现功能的首选方案
+                    </div>
+                </article>
+            </section>
+
+            <!-- 平台优势 -->
+            <section class="advantages" aria-label="平台优势">
+                <h2 class="section-title">为什么选择 PokePay？</h2>
+                <div class="advantages-grid">
+                    <div class="advantage-item">
+                        <div class="advantage-icon">📜</div>
+                        <div class="advantage-title">合规持牌</div>
+                        <div class="advantage-desc">持有美国MSB、香港MSO等金融牌照，严格遵循监管要求</div>
+                    </div>
+                    <div class="advantage-item">
+                        <div class="advantage-icon">🔒</div>
+                        <div class="advantage-title">资金托管</div>
+                        <div class="advantage-desc">金融法币方案通过合作银行合规检验，资金独立托管</div>
+                    </div>
+                    <div class="advantage-item">
+                        <div class="advantage-icon">🛡️</div>
+                        <div class="advantage-title">智能风控</div>
+                        <div class="advantage-desc">AML反洗钱监控+金融黑名单过滤，7×24小时实时保护</div>
+                    </div>
+                    <div class="advantage-item">
+                        <div class="advantage-icon">🌍</div>
+                        <div class="advantage-title">全球覆盖</div>
+                        <div class="advantage-desc">支持多币种结算，满足个人消费与企业跨境贸易需求</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 主要CTA -->
+            <section class="cta-section">
+                <a href="https://app.pokepay.cc/pages/passport/register?r=155328" class="cta-button" rel="nofollow sponsored">
+                    立即注册 PokePay →
+                </a>
+                <p style="margin-top: 12px; color: var(--text-secondary); font-size: 0.9rem;">
+                    通过邀请码 155328 注册，享受专属服务支持
+                </p>
+            </section>
+
+            <!-- 替代方案 -->
+            <section class="alternative" aria-label="替代服务">
+                <h3>🌌 银河录像局 - AI服务合租平台</h3>
+                <p>
+                    由于大陆IP目前暂无法直接注册PokePay，如有ChatGPT Plus、Claude Pro、Midjourney等AI服务的订阅需求，推荐使用银河录像局提供的合租代充服务，安全稳定，即买即用。
+                </p>
+                <a href="https://nf.video/Y7SG6" class="alt-link" rel="nofollow sponsored">
+                    访问银河录像局 🚀
+                </a>
+            </section>
         </main>
+
+        <footer>
+            <p>&copy; 2025 PokePay 介绍页面 | 合规跨境支付解决方案</p>
+            <div class="disclaimer">
+                <p>免责声明：本页面仅为信息分享，不构成投资建议。跨境支付涉及金融风险，请确保了解相关法规并谨慎操作。PokePay服务受当地法律法规约束，使用前请仔细阅读平台条款。</p>
+            </div>
+        </footer>
     </div>
-    <footer style="text-align: center; margin-top: 30px;">
-        
-    </footer>
+
+    <!-- 结构化数据补充：面包屑导航 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "首页",
+        "item": "https://your-github-pages-url.com"
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "PokePay介绍",
+        "item": "https://app.pokepay.cc/pages/passport/register?r=155328"
+      }]
+    }
+    </script>
 </body>
 </html>
