@@ -10,7 +10,7 @@ HUTAO Card目前支持以下主流平台订阅：
 
 | 类别  | 平台  |
 | --- | --- |
-| **流媒体** | Netflix、Spotify、YouTube Premium、Disney+、HBO Max |
+| **流媒体** | Netflix、Spotify、YouTube Premium、Disney+、HBO Max | 
 | **AI工具** | ChatGPT Plus、Claude、Midjourney、OpenAI API |
 | **云服务** | Google One、iCloud+、Dropbox、OneDrive |
 | **开发工具** | GitHub Copilot、Vercel、Cloudflare |
