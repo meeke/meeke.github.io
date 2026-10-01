@@ -2,7 +2,7 @@
 
 ## 一、什么是HUTAO Cards胡桃卡？
 
-**HUTAO Cards（胡桃卡）**<https://hutaocards.com/login?code=bnnhhd> 是一款专为国内用户设计的虚拟信用卡服务平台，成立于2025年，致力于解决跨境支付难题。它采用纯数字化模式，用户无需前往银行网点，仅需几分钟即可在线开通一张美国Visa或MasterCard虚拟信用卡。
+**HUTAO Cards（胡桃卡）**（官网入口：<https://314ai.github.io>） 是一款专为国内用户设计的虚拟信用卡服务平台，成立于2025年，致力于解决跨境支付难题。它采用纯数字化模式，用户无需前往银行网点，仅需几分钟即可在线开通一张美国Visa或MasterCard虚拟信用卡。
 
 ### 核心特点
 
@@ -35,7 +35,7 @@
 
 ### 第一步：访问官网并注册账户
 
-1. **访问官方网站**：<https://hutaocards.com/login?code=bnnhhd>
+1. **访问官方网站**：官网入口：<https://314ai.github.io>
   
 2. **点击「立即注册」按钮**
   
