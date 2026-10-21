@@ -2,7 +2,7 @@
 
 ## 一、HUTAO Card 是什么？
 
-HUTAO Card（胡桃卡）<https://hutaocards.com/login?code=bnnhhd>是一款专为中国用户设计的**虚拟信用卡/VISA借记卡**服务，由香港胡桃卡科技有限公司运营。它解决了国内用户在没有实体国际信用卡的情况下，订阅海外服务、购买国际商品、进行跨境支付的痛点。
+HUTAO Card（胡桃卡）<https://314ai.github.io>是一款专为中国用户设计的**虚拟信用卡/VISA借记卡**服务，由香港胡桃卡科技有限公司运营。它解决了国内用户在没有实体国际信用卡的情况下，订阅海外服务、购买国际商品、进行跨境支付的痛点。
 
 ### 核心特点
 
@@ -55,7 +55,7 @@ HUTAO Card（胡桃卡）<https://hutaocards.com/login?code=bnnhhd>是一款专�
 
 ### 第一步：访问官网并注册
 
-1. 打开<https://hutaocards.com/login?code=bnnhhd>
+1. 打开<https://314ai.github.io>
 2. 点击"注册"按钮
 3. 填写手机号（支持中国大陆号码）
 4. 获取并输入验证码
