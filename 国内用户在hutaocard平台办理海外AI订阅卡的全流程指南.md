@@ -1,6 +1,6 @@
 # 国内用户在hutaocard平台办理海外AI订阅卡的全流程指南
 
-随着 ChatGPT Plus、Claude Pro、Midjourney、GitHub Copilot 等海外AI工具的普及，国内用户面临的最大障碍往往不是技术，而是**支付**。国内发行的双币信用卡在这些平台普遍被拒，代充服务又存在账号安全风险。hutaocard（官网：<https://hutaocards.com/login?code=bnnhhd>）作为专为国内用户设计的虚拟信用卡平台，通过支付宝充值即可开通美国 Visa/Mastercard 虚拟卡，成为订阅海外AI服务的稳定解决方案。
+随着 ChatGPT Plus、Claude Pro、Midjourney、GitHub Copilot 等海外AI工具的普及，国内用户面临的最大障碍往往不是技术，而是**支付**。国内发行的双币信用卡在这些平台普遍被拒，代充服务又存在账号安全风险。hutaocard（官网入口：<https://314ai.github.io>）作为专为国内用户设计的虚拟信用卡平台，通过支付宝充值即可开通美国 Visa/Mastercard 虚拟卡，成为订阅海外AI服务的稳定解决方案。
 
 ---
 
@@ -19,7 +19,7 @@ hutaocard 是一款专为国内用户设计的**虚拟信用卡服务平台**，
 
 ### 第一步：注册账号（约1分钟）
 
-1. 访问 hutaocard 官方网站：<https://hutaocards.com/login?code=bnnhhd>
+1. 访问 hutaocard 官方网站入口：<https://314ai.github.io>
 2. 点击「立即注册」按钮
 3. 输入有效的电子邮箱地址或手机号
 4. 设置安全密码（建议包含大小写字母、数字及特殊符号）
