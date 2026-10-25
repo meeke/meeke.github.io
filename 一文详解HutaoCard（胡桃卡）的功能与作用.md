@@ -4,7 +4,7 @@
 
 随着ChatGPT、Claude、Midjourney等海外AI工具的爆发式增长，国内用户面临着一个共同的难题——**支付壁垒**。国内双币信用卡频频被拒、PayPal绑定失败、没有海外银行账户，这些障碍让无数开发者和AI爱好者望而却步。
 
-**HutaoCard（胡桃卡）** 正是为解决这一痛点而生的虚拟信用卡解决方案。作为一款专为国内用户设计的跨境支付工具，它让用户无需海外银行账户，仅需支付宝即可开通一张真正的国际Visa/MasterCard，轻松订阅各类AI服务。官网：<https://hutaocards.com/login?code=bnnhhd>
+**HutaoCard（胡桃卡）** 正是为解决这一痛点而生的虚拟信用卡解决方案。作为一款专为国内用户设计的跨境支付工具，它让用户无需海外银行账户，仅需支付宝即可开通一张真正的国际Visa/MasterCard，轻松订阅各类AI服务。官网入口：<https://314ai.github.io>
 
 ---
 
@@ -123,7 +123,7 @@ HutaoCard在SaaS和云服务领域同样表现出色：
 
 ### 第一步：注册账户
 
-1. 访问HutaoCard官方网站：<https://hutaocards.com/login?code=bnnhhd>
+1. 访问HutaoCard官方网站入口：<https://314ai.github.io>
 2. 点击「立即注册」按钮
 3. 输入有效的电子邮箱地址或手机号
 4. 设置安全密码（建议包含大小写字母、数字及特殊符号）
