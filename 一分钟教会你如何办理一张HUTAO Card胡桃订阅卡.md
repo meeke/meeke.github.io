@@ -2,7 +2,7 @@
 
 ## 什么是HUTAO Card？
 
-HUTAO Card（胡桃卡）是一款专为国内用户设计的虚拟信用卡服务，让你轻松订阅海外各类数字服务。无需复杂的海外银行账户，只需一分钟即可完成开卡，即刻畅享全球优质内容。官网：<https://hutaocards.com/login?code=bnnhhd>
+HUTAO Card（胡桃卡）是一款专为国内用户设计的虚拟信用卡服务，让你轻松订阅海外各类数字服务。无需复杂的海外银行账户，只需一分钟即可完成开卡，即刻畅享全球优质内容。官网入口：<https://314ai.github.io>
 
 ## 支持的平台
 
@@ -20,7 +20,7 @@ HUTAO Card目前支持以下主流平台订阅：
 
 ### 第一步：访问官网注册
 
-打开 [HUTAO Card官网](https://hutaocards.com/login?code=bnnhhd) ，点击右上角"注册"按钮。
+打开<https://314ai.github.io> ，点击右上角"注册"按钮。
 
 > 💡 **小贴士**：使用推荐链接注册可享受更多优惠！
 
@@ -106,7 +106,7 @@ A: 卡片有效期3年，到期可免费续卡，卡号不变。
 
 还在为用不了ChatGPT Plus而烦恼？还在为订阅不了Netflix而发愁？
 
-**现在访问 [HUTAO Card官网](https://hutaocards.com/login?code=bnnhhd) ，一分钟搞定海外支付！**
+**现在访问 <https://314ai.github.io> ，一分钟搞定海外支付！**
 
 新用户注册即送$2开卡礼金，首充还有额外返现优惠。告别繁琐的海外银行开户，一张胡桃卡，畅享全球数字服务！
 
