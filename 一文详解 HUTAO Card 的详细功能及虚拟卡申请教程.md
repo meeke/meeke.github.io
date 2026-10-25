@@ -2,7 +2,7 @@
 
 ## 一、什么是 HUTAO Card？
 
-**HUTAO Card（胡桃卡）** <https://hutaocards.com/login?code=bnnhhd>是一款专为国内用户设计的虚拟信用卡解决方案，旨在解决跨境支付难题。随着 ChatGPT、Claude、Midjourney 等海外 AI 服务的普及，国内用户在订阅这些服务时常常面临"银行卡被拒"的困境。HUTAO Card 通过提供美国 Visa 虚拟卡，让用户能够便捷、安全地完成国际支付 。
+**HUTAO Card（胡桃卡）** <https://314ai.github.io>是一款专为国内用户设计的虚拟信用卡解决方案，旨在解决跨境支付难题。随着 ChatGPT、Claude、Midjourney 等海外 AI 服务的普及，国内用户在订阅这些服务时常常面临"银行卡被拒"的困境。HUTAO Card 通过提供美国 Visa 虚拟卡，让用户能够便捷、安全地完成国际支付 。
 
 相比传统银行发行的双币信用卡，HUTAO Card 具有 **开卡快（几分钟内完成）、门槛低（支持支付宝充值）、成功率高（原生美卡卡 BIN）** 等显著优势，是目前国内用户订阅海外 AI 服务的首选支付工具之一 。
 
@@ -81,7 +81,7 @@ HUTAO Card 提供多档账户等级，满足不同用户需求 ：
 
 ### 第一步：账户注册（约 1 分钟）
 
-1. **访问官网**：[https://hutaocards.com/login?code=bnnhhd](https://hutaocards.com/login?code=bnnhhd)
+1. **访问官网**：<https://314ai.github.io>
   
 2. **选择注册方式**：支持邮箱注册或手机号注册
   
