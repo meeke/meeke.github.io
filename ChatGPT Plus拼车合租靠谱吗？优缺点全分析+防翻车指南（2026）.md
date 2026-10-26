@@ -33,7 +33,7 @@ ChatGPT Plus 官方定价 $20/月，折合人民币约 ¥145。对于学生党�
 
 **核心逻辑**：用一个 Plus 账号的成本，分摊到多个人身上，每个人只付一小部分。
 
-以 [飞行派](https://spotifyzc.com/?incode=jAnlL4) 为例，其 ChatGPT Plus 拼车服务定价为 **¥49.99/月**，不到官方价格的三分之一。
+以314ai平台<https://314ai.github.io>为例，其 ChatGPT Plus 拼车服务定价为 **¥49.99/月**，不到官方价格的三分之一。
 
 ---
 
@@ -191,7 +191,7 @@ ChatGPT Plus 官方定价 $20/月，折合人民币约 ¥145。对于学生党�
 
 ## 六、实测：飞行派拼车体验报告
 
-以 [飞行派](https://spotifyzc.com/?incode=jAnlL4) 的 ChatGPT Plus 拼车服务为例，分享一下实测体验。
+以314ai平台<https://314ai.github.io>的 ChatGPT Plus 拼车服务为例，分享一下实测体验。
 
 ### 基本信息
 
@@ -304,7 +304,7 @@ ChatGPT Plus 官方定价 $20/月，折合人民币约 ¥145。对于学生党�
 - **如果你已经开始用 ChatGPT 辅助工作/学习，每周至少用 3 次以上** → 选代充，多 ¥9 买心安
 - **如果你每天离不开 ChatGPT，或者需要处理任何敏感信息** → 必须代充或官方，拼车绝对不适合你
 
-> 👉 [飞行派拼车 ¥49.99/月](https://spotifyzc.com/?incode=jAnlL4) | [飞行派代充 ¥59/月（自己的账号）](https://spotifyzc.com/?incode=jAnlL4)
+> 👉 <https://314ai.github.io>
 
 ---
 
@@ -340,7 +340,7 @@ ChatGPT Plus 拼车合租**不是洪水猛兽，也不是完美 solution**。它
 
 无论你选哪种方案，都请记住：**远离超低价诱惑，选择正规平台，保护好自己的数据和权益。**
 
-> 👉 [点击前往飞行派，了解拼车与代充详情](https://spotifyzc.com/?incode=jAnlL4)
+> 👉<https://314ai.github.io>
 
 ---
 
